@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+*italicized text* My Favorite Movies are
+
